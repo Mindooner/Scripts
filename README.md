@@ -2,7 +2,7 @@ Credits to Greenman for most of the original stuffs (protosmasher, old rcm)
 Credits to Azulx for informations about Elysian
 
 # Contents
-* [Synapse](#synapse-x)
+* [Synapse](#fart)
 * [Sentinel](#sentinel)
 * [Protosmasher](#protosmasher)
 * [RCM](#RCM)
@@ -14,7 +14,7 @@ Credits to Azulx for informations about Elysian
 * [Calamari](#calamari)
 * [System48](#system48)
 
-# Synapse X
+# fart
 Discountinued, developers now work with Hyperion (Roblox's Antitamper/Anticheat)
 
 ### Former Names
