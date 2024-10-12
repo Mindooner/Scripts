@@ -13,6 +13,7 @@ Jayden was a user who joined the exploiting community, and V3rmillion in 2015-20
     * Level 4, FE checker, memcheck and retcheck included.
     * $15
 * xDF v2.00
-  *    ![xDF](https://i.imgur.com/clNd2K8.png)
+  *UI:
+      ![xDF](https://i.imgur.com/clNd2K8.png)
   * "Invite-Only"
   * No script execution, only button scripts.
