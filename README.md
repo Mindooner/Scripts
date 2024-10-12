@@ -14,5 +14,6 @@ Jayden was a user who joined the exploiting community, and V3rmillion in 2015-20
     * $15
 * xDF v2.00
 *    ![xDF](https://i.imgur.com/clNd2K8.png)
+*    
     * "Invite-Only"
     * No script execution, only button scripts.
