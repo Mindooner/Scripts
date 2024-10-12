@@ -21,3 +21,10 @@ Jayden was a user who joined the exploiting community, and V3rmillion in 2015-20
    * "Level 7"
    * Free
    * Full script execution
+* Project Angel
+   * ![Angel](https://i.imgur.com/AXsbWeS.png)
+   * "Memcheck, Retcheck, Trustcheck, "ASLR""
+   * First paid, eventually free.
+   * Only a few rLUA Env feature such as Color3.new, Vector3.new, and Instance.new.
+* many more that im too lazy to type out
+
