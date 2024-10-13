@@ -123,3 +123,63 @@ KingJordan, also known as CheatBuddy joined the community in 2016, contributing 
 - RCM had trials, originally costing $30 for a lifetime subscription.
 
 - RCM released in august 2018, and discontinued in mid 2020, with almost 2 year support.
+
+# Louka
+Louka, also known as FaZe Louka or Rain Louka joined the community in 2016, was a HUGE contribution to the exploiting community, contributing to Synapse X amongst other executors. Louka started off with simple projects, like console software that would save instance, console btools and so on.
+## Projects
+### Magus Night v2
+![MagusNight](https://i.imgur.com/Pzrl3Ii.png)
+
+- Magus Night v2, unlike the other software on this repo was a place stealer.
+
+- Magus Night v2 was completely free of charge.
+
+- It ran on a console, all it did was save the game with scripts into the folder of magus night, with scripts, this was the first of it's kind, an external that only save instanced.
+
+- Magus Night was released in October 2016, and a month later in november, louka stopped working on it and released it's source code.
+
+### verbhaxx
+![verbhaxx](https://i.imgur.com/C4gI76Q.png)
+
+- verbhaxx, much like Magus Night v2, ran in a console, only giving you building tools which was also one of it's kind.
+
+- verbhaxx, much as the name suggests, ran on "verbs". Verbs, in simple terms, are C++ functions that could be bound to lua methods, for example, "Exit" was bound to the "Quit Game" button.
+
+### rbx!pwn
+![rbxpawn](https://i.imgur.com/siRczd6.png)
+
+- Unlike Louka's other releases, this was a script executor with a full on UI.
+
+- This project was a 2 man project, made by Louka and [Ida](#Ida)
+
+- This was the first major contribution by Louka.
+
+### "Raindrop Omega"
+![Raindrop](https://i.imgur.com/vP6iolA.png)
+
+- Raindrop Omega, was an april fools joke by Louka, he convinced the community that he'd released [Raindrop](#Raindrop) free of use.
+
+- Raindrop Omega claimed to be level 7, automatically update, be undetected, and have full API support.
+
+### Danghui
+
+![Danghui](https://i.imgur.com/1cs7rC5.png)
+
+- Danghui was a MAJOR contribution, Louka first made it with the actual benefits of Raindrop Omega.
+
+- Level 7 script execution, Undisclosed "execution method"
+
+- Louka then decided to give up on the project, and put it's source code up for bid, and sold it on 10/13/24.
+
+- However after it was sold, the source was leaked and exploits continued to skid from the source with only updating the addresses.
+
+- Shortly after he sold Danghui source code, he decided to quit vermillion and leave the exploiting community, due to the bad behaviour of the staff team, and so on.
+
+
+
+
+
+
+
+
+
