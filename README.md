@@ -9,7 +9,7 @@
 * [System48](#System48)
 * [Ex-7](#Ex-7)
 * [Script-Ware](#Script-Ware)
-* [UNC](#Unified Naming Convention (UNC for short))
+* [UNC](#Unified-Naming-Convention)
 
 # Jayden
 Jayden was a user who joined the exploiting community, and V3rmillion in 2015-2016. Jayden was many things, an all-time infamous ratter, a DDoser, a script kiddie, and a user who used sources, updated them and sold them for money. Jayden also DDosed RC7's authentication servers amongst other things.
@@ -67,7 +67,7 @@ AzulX was a user who joined the exploiting community in 2015-2016, AzulX loved t
 
 
 
-### Unified Naming Convention (UNC for short)
+### Unified Naming Convention
 
 - During the development of Script-Ware, AzulX and the Script-Ware developer team decided to work on a project that would attain cross compatibility across executors so scripts wouldn't have to have a variant that worked on, for example, script-ware, another that only worked on synapse x, and a third that worked on free executors. 
 
