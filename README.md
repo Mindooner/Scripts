@@ -3,6 +3,7 @@
 * [AzulX](#AzulX)
 * [1337isback](#1337isback)
 * [CheatBuddy/KingJordan](#KingJordan)
+* [Louka](#Louka)
 
 
 
@@ -16,6 +17,9 @@
 * [XYZ/QTX](#Xyz)
 * [RC7](#RC7)
 * [RCM](#RCM)
+* [verbhaxx](#verbhaxx)
+* [rbx!pwn](#rbx!pwn)
+* [Danghui](#Danghui)
   
 
 
