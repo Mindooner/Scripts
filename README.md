@@ -2,6 +2,7 @@
 * [Jayden](#Jayden)
 * [AzulX](#AzulX)
 * [1337isback](#1337isback)
+* [CheatBuddy/KingJordan](#KingJordan)
 
 
 
@@ -13,6 +14,8 @@
 * [Script-Ware](#Script-Ware)
 * [UNC](#Unified-Naming-Convention)
 * [XYZ/QTX](#Xyz)
+* [RC7](#RC7)
+* [RCM](#RCM)
   
 
 
@@ -88,8 +91,7 @@ AzulX was a user who joined the exploiting community in 2015-2016, AzulX loved t
 1337isback was a user who joined the exploiting community in 2015-2016, 1337isback was experienced on exploit making however loved to incorporate rats with his exploits, and was known in the community as his exploit "xyz" was a major cookie logger.
 ## Projects
 ### Xyz
-![Xyz](https://i.imgur.com/3q9c2mb.png)
-![QTX](https://i.imgur.com/jnd9wMZ.png)
+![Xyz](https://i.imgur.com/3q9c2mb.png) ![QTX](https://i.imgur.com/jnd9wMZ.png)
 
 - XYZ at first costed $20, then the price had raised to $35. This exploit was not only malware/cookie logger, it competed with rc7 and lasted almost a year in 2016.
 
@@ -98,3 +100,26 @@ AzulX was a user who joined the exploiting community in 2015-2016, AzulX loved t
 - Script executor, 61 commands.
 
 - Later became QTX, while still mainting its main features, being malware, trials, script execution but it became a little better.
+
+
+
+# KingJordan
+KingJordan, also known as CheatBuddy joined the community in 2016, contributing a lot to the community with his exploits "RC7" and "RCM".
+## Projects
+### RC7
+![RC7](https://i.imgur.com/cM0N51v.png)
+
+- $50 Amazon, $25 Paypal pre decompiler, $35 post decompiler.
+
+- RC7 was one of the best external executors to have ever been released, extreme stability, fast updates, support for all functions and scripts, built in topk3k, dex and remotespy.
+
+### RCM
+![RCM](https://i.imgur.com/95QUlDb.png)
+
+- A while after RC7 discontinued, CheatBuddy came back with info on planning to revive RC7, however he gave up on attempting to revive RC7 and instead made RCM. 
+
+- RCM was one of the first fully external universal aimbot/esp software, using only DirectX and no script.
+
+- RCM had trials, originally costing $30 for a lifetime subscription.
+
+- RCM released in august 2018, and discontinued in mid 2020, with almost 2 year support.
