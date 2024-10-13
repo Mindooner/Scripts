@@ -1,6 +1,8 @@
 # Persons of Interest Contents
 * [Jayden](#Jayden)
 * [AzulX](#AzulX)
+* [1337isback](#1337isback)
+
 
 
 # Exploit Contents
@@ -10,6 +12,9 @@
 * [Ex-7](#Ex-7)
 * [Script-Ware](#Script-Ware)
 * [UNC](#Unified-Naming-Convention)
+* [XYZ/QTX](#XYZ/QTX)
+  
+
 
 # Jayden
 Jayden was a user who joined the exploiting community, and V3rmillion in 2015-2016. Jayden was many things, an all-time infamous ratter, a DDoser, a script kiddie, and a user who used sources, updated them and sold them for money. Jayden also DDosed RC7's authentication servers amongst other things.
@@ -76,3 +81,20 @@ AzulX was a user who joined the exploiting community in 2015-2016, AzulX loved t
 - Github repo: https://github.com/unified-naming-convention/NamingStandard
 
 - This project was discontinued after 2 years, as the developers have lost interest in ROBLOX, however this still has a huge effect on the community, and can still be used with newer code as of 2024.
+
+
+
+# 1337isback
+1337isback was a user who joined the exploiting community in 2015-2016, 1337isback was experienced on exploit making however loved to incorporate rats with his exploits, and was known in the community as his exploit "xyz" was a major cookie logger.
+## Projects
+### Xyz/Qtx
+![Xyz](https://i.imgur.com/3q9c2mb.png)
+![QTX](https://i.imgur.com/jnd9wMZ.png)
+
+- XYZ at first costed $20, then the price had raised to $35. This exploit was not only malware/cookie logger, it competed with rc7 and lasted almost a year in 2016.
+
+- 1337isback released trials for xyz that lasted a few days to a week to beam more accounts :D
+
+- Script executor, 61 commands.
+
+- Later became QTX, while still mainting its main features, being malware, trials, script execution but it became a little better.
