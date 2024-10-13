@@ -173,7 +173,7 @@ Louka, also known as FaZe Louka or Rain Louka joined the community in 2016, was 
 
 - Level 7 script execution, Undisclosed "execution method"
 
-- Louka then decided to give up on the project, and put it's source code up for bid, and sold it on 10/13/24.
+- Louka then decided to give up on the project, and put it's source code up for bid, and sold it.
 
 - However after it was sold, the source was leaked and exploits continued to skid from the source with only updating the addresses.
 
