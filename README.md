@@ -12,7 +12,7 @@
 * [Ex-7](#Ex-7)
 * [Script-Ware](#Script-Ware)
 * [UNC](#Unified-Naming-Convention)
-* [XYZ/QTX](#XYZ/QTX)
+* [XYZ/QTX](#Xyz/Qtx)
   
 
 
