@@ -18,7 +18,7 @@
 * [RC7](#RC7)
 * [RCM](#RCM)
 * [verbhaxx](#verbhaxx)
-* [rbx!pwn]("#rbx!pwn")
+* [rbx!pwn](#rbxpwn)
 * [Danghui](#Danghui)
   
 
