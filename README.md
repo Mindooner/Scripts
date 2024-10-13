@@ -36,3 +36,11 @@ AzulX was a user who joined the exploiting community in 2015-2016, AzulX loved t
    * System48 was first based on a console, with simple features that played audios, set skyboxes, noclip, kill, etc, but then updated and had an actual UI, however with no script executing abilities, with added C Lua commands, and game specific commands like for Fencing and group recruitment plaza.
    * 7 Paypal, $7 CC, $10 Steam giftcard.
    * 100+ Commands
+* Ex-7
+   * ![Ex-7](https://i.imgur.com/2dLTRLi.png)
+   * Ex-7 was the first exploit to figure out bytecode compiling, and used roblox's serializer, then started using proto conversion later on, however AzulX was treated as a script kiddie and later on decided to discontinue Ex-7 due to the continuous hate from vermillion staff and users. 
+   * $35 USD, paypal only.
+* Script-Ware
+   * ![Script-Ware](https://i.imgur.com/Au4uYKt.png)
+   * Despite AzulX retiring from the community, he made a return shortly after, with a release like no other, Script-Ware. Script-Ware only costed $15, while competing with all the other exploits at the time, and continued support up until 2022, merging with bleu, which eventually became Calamari, which again, eventually discontinued.
+   * $15 USD, paypal only.
