@@ -1,10 +1,12 @@
 # Persons of Interest Contents
 * [Jayden](#Jayden)
+* [AzulX](#AzulX)
 
 
 # Exploit Contents
 
 * [Stigma](#stigma)
+* [System48](#System48)
 
 # Jayden
 Jayden was a user who joined the exploiting community, and V3rmillion in 2015-2016. Jayden was many things, an all-time infamous ratter, a DDoser, a script kiddie, and a user who used sources, updated them and sold them for money. Jayden also DDosed RC7's authentication servers amongst other things.
