@@ -32,8 +32,8 @@ Jayden was a user who joined the exploiting community, and V3rmillion in 2015-20
 
 # AzulX
 AzulX was a user who joined the exploiting community in 2015-2016, AzulX loved to make exploits, collabing with users like QuadCore, Uncle bill, and Customality.
-### Projects
-* System48
+## Projects
+   ### System48
    * ![System48](https://i.imgur.com/eLeC0qq.png)
    * System48 was first based on a console, with simple features that played audios, set skyboxes, noclip, kill, etc, but then updated and had an actual UI, however with no script executing abilities, with added C Lua commands, and game specific commands like for Fencing and group recruitment plaza.
    * 7 Paypal, $7 CC, $10 Steam giftcard.
