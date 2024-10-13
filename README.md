@@ -12,7 +12,7 @@
 * [Ex-7](#Ex-7)
 * [Script-Ware](#Script-Ware)
 * [UNC](#Unified-Naming-Convention)
-* [XYZ/QTX](#Xyz/Qtx)
+* [XYZ/QTX](#Xyz)
   
 
 
@@ -87,7 +87,7 @@ AzulX was a user who joined the exploiting community in 2015-2016, AzulX loved t
 # 1337isback
 1337isback was a user who joined the exploiting community in 2015-2016, 1337isback was experienced on exploit making however loved to incorporate rats with his exploits, and was known in the community as his exploit "xyz" was a major cookie logger.
 ## Projects
-### Xyz/Qtx
+### Xyz
 ![Xyz](https://i.imgur.com/3q9c2mb.png)
 ![QTX](https://i.imgur.com/jnd9wMZ.png)
 
