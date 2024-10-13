@@ -30,7 +30,7 @@ Jayden was a user who joined the exploiting community, and V3rmillion in 2015-20
 
 # AzulX
 AzulX was a user who joined the exploiting community in 2015-2016, AzulX loved to make exploits, collabing with users like QuadCore, Uncle bill, and Customality.
-### Exploits
+### Projects
 * System48
    * ![System48](https://i.imgur.com/eLeC0qq.png)
    * System48 was first based on a console, with simple features that played audios, set skyboxes, noclip, kill, etc, but then updated and had an actual UI, however with no script executing abilities, with added C Lua commands, and game specific commands like for Fencing and group recruitment plaza.
@@ -44,3 +44,9 @@ AzulX was a user who joined the exploiting community in 2015-2016, AzulX loved t
    * ![Script-Ware](https://i.imgur.com/Au4uYKt.png)
    * Despite AzulX retiring from the community, he made a return shortly after, with a release like no other, Script-Ware. Script-Ware only costed $15, while competing with all the other exploits at the time, and continued support up until 2023, eventually discontinuing.
    * $15 USD, paypal only.
+   * Script-Ware was one of the first exploits to have support for multi platforms, supporting MacOS, Windows, and iOS.
+* Unified Naming Convention (UNC for short)
+   * During the development of Script-Ware, AzulX and the Script-Ware developer team decided to work on a project that would attain cross compatibility across executors so scripts wouldn't have to have a variant that worked on, for example, script-ware, another that only worked on synapse x, and a third that worked on free executors. 
+   * This project was a major breakthrough and is still used to this day.
+   * Github repo: https://github.com/unified-naming-convention/NamingStandard
+   * This project was discontinued after 2 years, as the developers have lost interest in ROBLOX, however this still has a huge effect on the community, and can still be used with newer code as of 2024.
