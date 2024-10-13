@@ -42,5 +42,5 @@ AzulX was a user who joined the exploiting community in 2015-2016, AzulX loved t
    * $35 USD, paypal only.
 * Script-Ware
    * ![Script-Ware](https://i.imgur.com/Au4uYKt.png)
-   * Despite AzulX retiring from the community, he made a return shortly after, with a release like no other, Script-Ware. Script-Ware only costed $15, while competing with all the other exploits at the time, and continued support up until 2022, merging with bleu, which eventually became Calamari, which again, eventually discontinued.
+   * Despite AzulX retiring from the community, he made a return shortly after, with a release like no other, Script-Ware. Script-Ware only costed $15, while competing with all the other exploits at the time, and continued support up until 2023, eventually discontinuing.
    * $15 USD, paypal only.
