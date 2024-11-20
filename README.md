@@ -9,7 +9,6 @@
 
 # Exploit Contents
 
-* [Stigma](#stigma)
 * [System48](#System48)
 * [Ex-7](#Ex-7)
 * [Script-Ware](#Script-Ware)
